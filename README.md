@@ -1,4 +1,8 @@
-## Oii eu sou a Alessana Girão.🌞
+## Oii eu sou a Alessana,
+
+sou nova na área e no momento estou fazendo um bootcamp de desenvolvimento web fullstack.
+
+Em constante evolução 🚀⋆°｡⋆🪐
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
